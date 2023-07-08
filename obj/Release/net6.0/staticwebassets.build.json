@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vO6ILyY9nRM4hO/V5AtwGTZFUGl/yj2g87FUMpY8+Vg=",
+  "Source": "WebApiEsp32Master",
+  "BasePath": "_content/WebApiEsp32Master",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
